@@ -6,5 +6,5 @@ name = ADENEYE, Samuel Adewale
 email = samueladeneye75@gmail.com 
 slack_username = SamAdeneye
 biostack = Data Science and Machine Learning
-twitter_username = Unkool_Sam
+twitter_username = @Unkool_Sam
 hamming distance = 1
